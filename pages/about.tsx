@@ -4,7 +4,7 @@ import styles from "../styles/About.module.css";
 const About = () => {
   return (
     <div className={styles.container}>
-      <h1 className={styles.center}>About Coder XXX</h1>
+      <h1 className={styles.center}>About Coder </h1>
       <h2>Introduction</h2>
       <p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam, quidem?
@@ -13,7 +13,7 @@ const About = () => {
         repellat repellendus deleniti est. Blanditiis officiis et explicabo
         dicta. Quod, blanditiis at similique enim deserunt labore nisi doloribus
         tempore nihil quam omnis magni ducimus natus sit vel, id reprehenderit
-        nam non quo consectetur ipsa molestias nobis.{" "}
+        nam non quo consectetur ipsa molestias nobis
       </p>
       <h2>Services Offered</h2>
       <p>
